@@ -1,17 +1,17 @@
 {
 	"basics": {
-		"name": "---PRIYANKA PHULWARI---",
+		"name": "PRIYANKA PHULWARI",
 		"label": "Student",
-		"picture": "---https://drive.google.com/file/d/1hxf4rgkLR3-ZO73Xgg3OeoWtOH63Qpph/view?usp=sharing----",
-		"email": "---2019kucp1105@iiitkot.ac.in---",
-		"phone": "---9414355952---",
-		"summary": "---Aspiring software development technologies and have a open outlook to solve problems by applying critical and analytical thinking---",
+		"picture": "https://drive.google.com/file/d/1hxf4rgkLR3-ZO73Xgg3OeoWtOH63Qpph/view?usp=sharing",
+		"email": "2019kucp1105@iiitkot.ac.in",
+		"phone": "9414355952",
+		"summary": "Aspiring software development technologies and have a open outlook to solve problems by applying critical and analytical thinking",
 		"location": {
 			"address": "Regran mohalla chota bass , near samta bhawan, Beawar",
 			"postalCode": "305901",
 			"city": "Beawar",
 			"countryCode": "India",
-			"region": "---Rajasthan---"
+			"region": "Rajasthan"
 		},
 		"profiles": [
 				
@@ -36,8 +36,8 @@
 		
 	}],
 	"volunteer": [{
-		"organization": "---Cultural Club---",
-		"position": "---Volunteer---",
+		"organization": "Cultural Club",
+		"position": "Volunteer",
 		
 		"startDate": "2020-01-21 // Note Date Format",
 		"endDate": "2020-01-26",
@@ -50,7 +50,7 @@
 		"studyType": "Bachelor (hons)",
 		"startDate": "2019-08-05 //Date",
 		"endDate": "2023",
-		"gpa": "---7.84 ---",
+		"gpa": "7.84 ",
 		"courses": [
 			"Computer Science & Engineering"
 		]
@@ -58,7 +58,7 @@
 		"area": "PCM",
 		"startDate": "2016-06-11 //Date",
 		"endDate": "2018",
-        "Percentage": "---8.40---"}],
+        "Percentage": "8.40"}],
     
 	"skills": [{
 		"level": "Master",
